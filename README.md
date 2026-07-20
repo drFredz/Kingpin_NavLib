@@ -22,5 +22,4 @@ The goal of this project is source-level compatibility with the original navigat
 ## Credits
 
 - Xatrix Entertainment for the original Kingpin navigation system
-- id Software for Quake II technology
 - Contributors and reverse engineering community members
