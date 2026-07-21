@@ -23,3 +23,9 @@ The goal of this project is source-level compatibility with the original navigat
 
 - Xatrix Entertainment for the original Kingpin navigation system
 - Contributors and reverse engineering community members
+
+
+## Notice
+
+This project is a reconstruction of the original Kingpin NavLib for research, preservation, and educational purposes.
+Kingpin: Life of Crime and related intellectual property remain the property of their respective owners.
